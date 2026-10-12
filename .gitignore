@@ -1,0 +1,18 @@
+# === Secrete — NU se comit niciodata ===
+.env
+*.env
+!.env.example
+
+# Backup-uri n8n (workflows + credentiale)
+backups/
+
+# Exporturi temporare
+exported-*.json
+*.json.bak
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
