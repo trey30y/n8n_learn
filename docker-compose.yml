@@ -1,3 +1,4 @@
+name: n8n_learn
 services:
   postgres:
     container_name: postgres
